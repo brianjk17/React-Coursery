@@ -8,10 +8,10 @@ import Register from './pages/Register';
 
 import Quiz from './components/Quiz/Quiz'
 //import Question from './pages/'
-import UserDashBoard from './pages/AdminDashBoard';
+import UserDashBoard from './pages/AdminDashboard';
 import AddPage from './pages/AddPage';
 import AddLesson from './components/AddLesson';
-import AdminRealDashBoard from './pages/AdminRealDashBoard';
+import AdminRealDashBoard from './pages/AdminRealDashboard';
 import UpdateQuestion from './components/UpdateQuestion/UpdateQuestion';
 import ErrorPage from './pages/ErrorPage';
 
